@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-Abhirath Kapoor
+Raghav Chadha
 """
 import streamlit as st 
 import os
@@ -130,9 +130,9 @@ def main():
 	st.sidebar.subheader("About Application")
 	st.sidebar.text("SOME NLP TASKS")
 
-	st.sidebar.subheader("Abhirath Kapoor")
-	st.sidebar.text("101803047")
-	st.sidebar.text("akapoor_be18@thapar.edu")
+	st.sidebar.subheader("Raghav Chadha")
+	st.sidebar.text("101853034")
+	st.sidebar.text("rchadha_be18@thapar.edu")
 	
 
 if __name__ == '__main__':
